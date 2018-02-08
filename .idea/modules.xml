@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\android\StickyItemDecoration-master\StickyItemDecoration.iml" filepath="E:\android\StickyItemDecoration-master\StickyItemDecoration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyItemDecoration-master.iml" filepath="$PROJECT_DIR$/StickyItemDecoration-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
